@@ -1,0 +1,761 @@
+cluster_id,cohort_id,name_f,name_l,birth,name_labtec
+cl01,cl01_01, Sakeena,al-Hoque,2012-03-26, Nicole
+cl01,cl01_02, Mitchell,Gonzales,2017-01-02, Nicole
+cl01,cl01_03, Anthony,Simmons,2024-08-15, Nicole
+cl01,cl01_04, Alyssa,Rivera,2016-10-03, Nicole
+cl01,cl01_05, Timothy,Vlajic,2015-09-10, Nicole
+cl01,cl01_06, Mana,White,2018-08-09, Nicole
+cl01,cl01_07, Chykeiljah,Rea,2022-05-22, Nicole
+cl01,cl01_08, Laneesha,Rusk,2011-07-23, Nicole
+cl01,cl01_09, Mujaahida,el-Malak,2021-01-02, Nicole
+cl01,cl01_10, Jasmine,Figueroa,2013-02-21, Nicole
+cl01,cl01_11, Austin,Smith,2000/11/30, Nicole
+cl01,cl01_12, Jacob,Reyes,2016-09-19, Nicole
+cl01,cl01_13, Aatifa,el-Ghani,2013-04-23, Nicole
+cl01,cl01_14, Imraan,el-Shafi,2019-09-13, Nicole
+cl01,cl01_15, Naaifa,el-Shaban,2018-09-12, Nicole
+cl01,cl01_16, Teresa,Silva,2014-11-30, Nicole
+cl01,cl01_17, Karthikeyan,Krishnan,2020-01-27, Nicole
+cl01,cl01_18, William,Sullivan,2017-04-24, Nicole
+cl01,cl01_19, Kyler,Sanchez,2011-05-06, Nicole
+cl01,cl01_20, Abdul Noor,al-Fawaz,2022-09-16, Nicole
+cl01,cl01_21, John,Bebernes,2023-06-11, Nicole
+cl01,cl01_22, Lauren,Thompson,2012-09-07, Nicole
+cl01,cl01_23, Sham'a,el-Samara,2014-12-06, Nicole
+cl01,cl01_24, Jay,Simpson,2018-08-30, Nicole
+cl01,cl01_25, Brandon,Kaur,2021-09-20, Nicole
+cl01,cl01_26, Tyler,Clark,2018-03-07, Nicole
+cl01,cl01_27, Molly,Billings,2017-01-03, Nicole
+cl01,cl01_28, Kelly,Steward,2023-03-12, Nicole
+cl01,cl01_29, Sunjot,Laouar,2019-09-25, Nicole
+cl01,cl01_30, Bassaam,al-Hai,2015-01-02, Nicole
+cl01,cl01_31, Waajida,al-Ebrahimi,2021-12-12, Nicole
+cl01,cl01_32, Jedidiah,Clermonts,2011-01-31, Nicole
+cl01,cl01_33, Luis,Duarte,2012-12-05, Nicole
+cl01,cl01_34, Hing,Kiyota,2016-03-06, Nicole
+cl01,cl01_35, Abdur Raheem,al-Sarah,2019-10-13, Nicole
+cl01,cl01_36, Taylor,Scherman,2013-06-15, Nicole
+cl01,cl01_37, Zachary,Renteria-Cobos,2017-06-27, Nicole
+cl01,cl01_38, Chase,Hess,2024-03-16, Nicole
+cl02,cl02_01, Ashlyn,Patilla,2013-09-21, Luis
+cl02,cl02_02, Zulfa,al-Salem,2021-05-29, Luis
+cl02,cl02_03, Hannah,Aamodt,2013-04-16, Luis
+cl02,cl02_04, Elisa,Montoya,2022-08-15, Luis
+cl02,cl02_05, Benjamin,Tunnell,2013-02-08, Luis
+cl02,cl02_06, Kelia,Lee,2019-01-18, Luis
+cl02,cl02_07, Lynn,Hernandez,2014-05-28, Luis
+cl02,cl02_08, Corey,Williams,2022-09-30, Luis
+cl02,cl02_09, Abdur Rahmaan,al-Kazi,2022-05-15, Luis
+cl02,cl02_10, Mun,Patel,2016-03-02, Luis
+cl02,cl02_11, Sadoon,el-Nawaz,2014-03-12, Luis
+cl02,cl02_12, Rudy,Kucera,2024-04-14, Luis
+cl02,cl02_13, Kevin,Jungbauer,2015-07-18, Luis
+cl02,cl02_14, Gabriel,Wall,2021-09-15, Luis
+cl02,cl02_15, Kami,Rivera,2018-07-22, Luis
+cl02,cl02_16, Wanyi,Mai,2022-03-19, Luis
+cl02,cl02_17, Megan,Rogers,2018-01-27, Luis
+cl02,cl02_18, Nastashia,Dodd,2017-04-16, Luis
+cl02,cl02_19, Jonathan,Black,2018-09-06, Luis
+cl02,cl02_20, Keyona,Phillips,2017-01-22, Luis
+cl02,cl02_21, Julia,Bedonie,2024-01-06, Luis
+cl02,cl02_22, Saara,el-Mansouri,2022-07-24, Luis
+cl02,cl02_23, Alexander,Ilaoa,2019-07-26, Luis
+cl02,cl02_24, Mya,Hardy,2022-04-20, Luis
+cl02,cl02_25, Corey,Dance,2014-08-09, Luis
+cl02,cl02_26, Donovin,Lopez,2015-09-05, Luis
+cl02,cl02_27, Katelyn,Browning,2021-08-10, Luis
+cl02,cl02_28, Lauren,Braxton,2012-12-25, Luis
+cl02,cl02_29, Janice,Anderson,2014-06-23, Luis
+cl02,cl02_30, Angel De Jesus,Lutz,2014-03-26, Luis
+cl02,cl02_31, Maria,Stacy,2023-10-22, Luis
+cl02,cl02_32, Mansoor,al-Ghani,2018-09-01, Luis
+cl02,cl02_33, Delilah,Isbell,2023-03-01, Luis
+cl02,cl02_34, Siraaj,el-Abdou,2021-06-24, Luis
+cl02,cl02_35, Abdul Haadi,el-Azizi,2020-03-26, Luis
+cl02,cl02_36, Oliver,Rice,2023-08-13, Luis
+cl02,cl02_37, Cody,Moe,2019-08-01, Luis
+cl02,cl02_38, Leticia,Urdiales,2011-02-03, Luis
+cl03,cl03_01, Sabeeka,al-Hamad,2022-03-19, Rustin
+cl03,cl03_02, Andrew,Braddy,2019-02-03, Rustin
+cl03,cl03_03, Javier,Garcia,2012-10-15, Rustin
+cl03,cl03_04, Fuaad,al-Rahim,2016-09-10, Rustin
+cl03,cl03_05, Mufliha,al-Hossain,2020-04-03, Rustin
+cl03,cl03_06, Samantha,Brooks,2018-07-17, Rustin
+cl03,cl03_07, Cyndia,Valdez,2016-11-28, Rustin
+cl03,cl03_08, Thuan,Tran,2023-06-17, Rustin
+cl03,cl03_09, Siobhan,Das,2018-03-26, Rustin
+cl03,cl03_10, Salamasina,Ward,2017-03-31, Rustin
+cl03,cl03_11, Natasha,Malte,2022-09-01, Rustin
+cl03,cl03_12, Stephanie,Lugo,2019-08-03, Rustin
+cl03,cl03_13, Rifqa,al-Sheikh,2013-02-08, Rustin
+cl03,cl03_14, Denisse,Huizar,2019-06-11, Rustin
+cl03,cl03_15, Hakeema,el-Aman,2017-05-23, Rustin
+cl03,cl03_16, Rick,Tani,2016-10-11, Rustin
+cl03,cl03_17, Raihaana,al-Lone,2019-07-03, Rustin
+cl03,cl03_18, Teria,Lathan,2017-07-27, Rustin
+cl03,cl03_19, Aspen,Parsons,2022-06-13, Rustin
+cl03,cl03_20, Sandra,Beightol,2022-12-08, Rustin
+cl03,cl03_21, Sirajuddeen,al-Massoud,2022-09-04, Rustin
+cl03,cl03_22, Nadeera,al-Iman,2016-03-04, Rustin
+cl03,cl03_23, Jessica,Lee,2018-09-15, Rustin
+cl03,cl03_24, Jessica,Garnes,2022-04-08, Rustin
+cl03,cl03_25, Haibaa,el-Shaheen,2017-10-24, Rustin
+cl03,cl03_26, Demetri,Shareef,2011-08-16, Rustin
+cl03,cl03_27, Freddy,Garcia,2021-03-16, Rustin
+cl03,cl03_28, Jazli,Jones,2011-12-10, Rustin
+cl03,cl03_29, Sapphire,Red,2019-08-15, Rustin
+cl03,cl03_30, Kiowa,Whiteplume,2020-12-25, Rustin
+cl03,cl03_31, Steven,Espinosa,2023-08-19, Rustin
+cl03,cl03_32, Humberto,Herrera,2021-07-15, Rustin
+cl03,cl03_33, Brendan,Begay,2016-05-09, Rustin
+cl03,cl03_34, Chelsie,Armor,2013-03-12, Rustin
+cl03,cl03_35, Devon,John,2018-04-20, Rustin
+cl03,cl03_36, Jasoor,el-Salik,2014-08-02, Rustin
+cl03,cl03_37, Kimberly,Nguyen,2014-12-15, Rustin
+cl03,cl03_38, Quennahdeigh,Mcneil,2024-06-12, Rustin
+cl04,cl04_01, Katrina,Pratte,2016-12-21, Phuc Danny
+cl04,cl04_02, Kirsten,Campbell,2017-01-22, Phuc Danny
+cl04,cl04_03, Giavonie,Rainey,2020-01-13, Phuc Danny
+cl04,cl04_04, Karina,Palacios,2022-03-19, Phuc Danny
+cl04,cl04_05, Genesis,Garcia,2011-07-07, Phuc Danny
+cl04,cl04_06, Mytruc,Phi,2012-11-02, Phuc Danny
+cl04,cl04_07, Mitchell,Okazaki,2012-01-28, Phuc Danny
+cl04,cl04_08, Cody,Searle,2013-02-01, Phuc Danny
+cl04,cl04_09, Fawzia,el-Younis,2018-08-17, Phuc Danny
+cl04,cl04_10, Salvador,Baros,2014-01-16, Phuc Danny
+cl04,cl04_11, Danita,Chea,2012-11-10, Phuc Danny
+cl04,cl04_12, Damarcus,Stevenson,2014-03-14, Phuc Danny
+cl04,cl04_13, Sadi,el-Mattar,2014-12-24, Phuc Danny
+cl04,cl04_14, Mary,Minor,2012-12-13, Phuc Danny
+cl04,cl04_15, Stibe,Cruz,2022-10-21, Phuc Danny
+cl04,cl04_16, Josiah,Bennett,2018-09-15, Phuc Danny
+cl04,cl04_17, Shellene,Mohs,2017-09-30, Phuc Danny
+cl04,cl04_18, Thanaa,al-Massoud,2022-10-25, Phuc Danny
+cl04,cl04_19, Enrique,Valadez,2017-01-03, Phuc Danny
+cl04,cl04_20, Haniyya,el-Akhter,2015-10-16, Phuc Danny
+cl04,cl04_21, Dontray,Mckay,2011-03-04, Phuc Danny
+cl04,cl04_22, Charley,Carreon,2016-05-18, Phuc Danny
+cl04,cl04_23, Teresa,Lee,2011-02-17, Phuc Danny
+cl04,cl04_24, Karah,Hearns,2020-03-08, Phuc Danny
+cl04,cl04_25, Ramel,Pacheco,2019-04-25, Phuc Danny
+cl04,cl04_26, Autumn,Begaye,2012-10-17, Phuc Danny
+cl04,cl04_27, Callie,Platero,2014-09-21, Phuc Danny
+cl04,cl04_28, Noori,al-Bahri,2011-07-30, Phuc Danny
+cl04,cl04_29, Ian,Flood,2017-06-20, Phuc Danny
+cl04,cl04_30, Jacob,Sabo,2024-06-26, Phuc Danny
+cl04,cl04_31, Yusri,el-Zaidi,2018-08-27, Phuc Danny
+cl04,cl04_32, Xochitl,Tang,2011-10-05, Phuc Danny
+cl04,cl04_33, Gabriel,Matlock,2019-06-20, Phuc Danny
+cl04,cl04_34, Mari,Herrera,2018-02-23, Phuc Danny
+cl04,cl04_35, Oscar,Cazares,2016-05-03, Phuc Danny
+cl04,cl04_36, Kimani,Osazuwa,2020-06-25, Phuc Danny
+cl04,cl04_37, Mitchell,Clarke,2014-10-26, Phuc Danny
+cl04,cl04_38, Richard,Tenorio,2014-07-21, Phuc Danny
+cl05,cl05_01, Shaqeeqa,el-Soliman,2021-10-30, Kimberly
+cl05,cl05_02, Darlene,Alvidrez,2021-06-10, Kimberly
+cl05,cl05_03, Fareed,al-Farag,2013-11-17, Kimberly
+cl05,cl05_04, Ehrin,Salat,2021-01-26, Kimberly
+cl05,cl05_05, Jordan,Gonzalez,2024-01-17, Kimberly
+cl05,cl05_06, Ernesto,Jurado,2023-09-18, Kimberly
+cl05,cl05_07, Tierza,England,2017-01-18, Kimberly
+cl05,cl05_08, Saleena,Oraee,2014-01-20, Kimberly
+cl05,cl05_09, Sapphire,Gonzales,2012-03-20, Kimberly
+cl05,cl05_10, Sean,Chou,2019-06-15, Kimberly
+cl05,cl05_11, Sonny,Mccarthy,2020-09-11, Kimberly
+cl05,cl05_12, Jordan,Billinghurst,2016-02-08, Kimberly
+cl05,cl05_13, Taqi,el-Sattar,2012-02-13, Kimberly
+cl05,cl05_14, Anasthasia,Lansing,2014-05-08, Kimberly
+cl05,cl05_15, Megan,Dolph,2011-05-10, Kimberly
+cl05,cl05_16, Alexandra,Muneton-Davila,2013-09-12, Kimberly
+cl05,cl05_17, Alana,Maddux,2019-04-22, Kimberly
+cl05,cl05_18, Alexander,Kelly,2019-01-23, Kimberly
+cl05,cl05_19, Naseema,al-Sader,2017-07-07, Kimberly
+cl05,cl05_20, Jaime,Hernandez Pozos,2022-06-01, Kimberly
+cl05,cl05_21, Sultan,al-Nawaz,2014-09-12, Kimberly
+cl05,cl05_22, Lane,Adams,2018-07-26, Kimberly
+cl05,cl05_23, Genesis,Soto Ibarra,2014-09-28, Kimberly
+cl05,cl05_24, Joseph,Albrow,2014-05-07, Kimberly
+cl05,cl05_25, Pasha,Ryckman,2023-03-04, Kimberly
+cl05,cl05_26, Burhaan,al-Abdalla,2016-11-09, Kimberly
+cl05,cl05_27, Richard,O'Connor,2016-02-18, Kimberly
+cl05,cl05_28, Dallas,Gates,2016-09-17, Kimberly
+cl05,cl05_29, Jamiles,Rivera Carmona,2023-12-13, Kimberly
+cl05,cl05_30, Jacob,Mcdowell,2022-04-04, Kimberly
+cl05,cl05_31, Baylee,Granados Garcia,2022-09-04, Kimberly
+cl05,cl05_32, Benny,Kobel,2014-01-23, Kimberly
+cl05,cl05_33, Shahaama,el-Greiss,2024-07-05, Kimberly
+cl05,cl05_34, Waail,el-Hosseini,2023-05-21, Kimberly
+cl05,cl05_35, Destiny,Pooley,2012-02-17, Kimberly
+cl05,cl05_36, Devin,Guerrero,2018-03-03, Kimberly
+cl05,cl05_37, Saajida,al-Pour,2013-10-11, Kimberly
+cl05,cl05_38, Mahaa,al-Neman,2016-12-21, Kimberly
+cl06,cl06_01, Raamiz,al-Masih,2022-03-18, Ghaaziya
+cl06,cl06_02, Diego,Robles,2018-09-24, Ghaaziya
+cl06,cl06_03, Joel,Durst,2017-12-19, Ghaaziya
+cl06,cl06_04, Savonh,Akiyama,2015-09-30, Ghaaziya
+cl06,cl06_05, Taylor,Meyer,2020-11-04, Ghaaziya
+cl06,cl06_06, Paulina,Lee,2024-05-25, Ghaaziya
+cl06,cl06_07, Jason,Huckabey,2019-02-25, Ghaaziya
+cl06,cl06_08, Anthony,Moya,2013-08-15, Ghaaziya
+cl06,cl06_09, Antonio,Romero,2017-10-01, Ghaaziya
+cl06,cl06_10, Kaylynn,Ronnebaum,2021-12-07, Ghaaziya
+cl06,cl06_11, Cody,Garza,2011-11-05, Ghaaziya
+cl06,cl06_12, Reina,Montgomery,2012-02-10, Ghaaziya
+cl06,cl06_13, Nooriyya,al-Zaher,2020-01-03, Ghaaziya
+cl06,cl06_14, Taylor,Criswell,2017-12-06, Ghaaziya
+cl06,cl06_15, Suhaib,el-Qasim,2022-09-12, Ghaaziya
+cl06,cl06_16, Alex,Curtis,2011-05-20, Ghaaziya
+cl06,cl06_17, Curtis,Nguyen,2012-02-08, Ghaaziya
+cl06,cl06_18, Samuel,Conrad-Buckley,2023-01-29, Ghaaziya
+cl06,cl06_19, Christian,Ortega,2023-10-02, Ghaaziya
+cl06,cl06_20, Barinder,Trinh,2011-12-15, Ghaaziya
+cl06,cl06_21, Arianna,Aguinaldo,2020-12-08, Ghaaziya
+cl06,cl06_22, Brianna,John,2024-06-29, Ghaaziya
+cl06,cl06_23, Elizabeth,Meider,2019-03-10, Ghaaziya
+cl06,cl06_24, Emily,Chasteen,2017-09-20, Ghaaziya
+cl06,cl06_25, Ahmed,Dao,2011-01-02, Ghaaziya
+cl06,cl06_26, Jordan,Tekle,2011-09-22, Ghaaziya
+cl06,cl06_27, Hazeela,al-Kaba,2016-04-12, Ghaaziya
+cl06,cl06_28, Cheyane,Holiday,2022-04-15, Ghaaziya
+cl06,cl06_29, Ngoc,Terry,2024-04-26, Ghaaziya
+cl06,cl06_30, Nehal,Won,2022-10-13, Ghaaziya
+cl06,cl06_31, Melissa,O'Neill,2012-05-19, Ghaaziya
+cl06,cl06_32, Khadeeja,el-Ghani,2013-12-12, Ghaaziya
+cl06,cl06_33, Mong,Unga,2020-09-05, Ghaaziya
+cl06,cl06_34, Gabrielle,Alcantar Solis,2020-01-06, Ghaaziya
+cl06,cl06_35, Ty,Ruybal,2022-11-30, Ghaaziya
+cl06,cl06_36, Kaley,Freemyer,2012-06-30, Ghaaziya
+cl06,cl06_37, Julio,Martinez,2012-08-22, Ghaaziya
+cl06,cl06_38, Julia,Nguyen,2014-03-08, Ghaaziya
+cl07,cl07_01, Nakheel,el-Meer,2012-08-21, Clifford
+cl07,cl07_02, Coralie,Kim,2022-02-06, Clifford
+cl07,cl07_03, Chelsea,Mohan,2023-05-05, Clifford
+cl07,cl07_04, Yung,Chen,2021-10-17, Clifford
+cl07,cl07_05, Ashley,Bowen,2013-04-12, Clifford
+cl07,cl07_06, Katie,Alvarez,2022-05-10, Clifford
+cl07,cl07_07, Essence,Johnson,2024-08-14, Clifford
+cl07,cl07_08, Tyler,Tenorio,2023-12-28, Clifford
+cl07,cl07_09, Desiree,Clark,2021-11-01, Clifford
+cl07,cl07_10, Hudhaifa,al-Barakat,2019-03-05, Clifford
+cl07,cl07_11, Brittany,Velez,2013-04-19, Clifford
+cl07,cl07_12, Ethan,Kimber,2017-04-06, Clifford
+cl07,cl07_13, Joshua,Klein,2020-07-07, Clifford
+cl07,cl07_14, Chelice,Gates,2024-07-12, Clifford
+cl07,cl07_15, Selina,Saucedo,2024-08-17, Clifford
+cl07,cl07_16, Darius,Murray,2019-10-18, Clifford
+cl07,cl07_17, Naazil,el-Idris,2020-05-28, Clifford
+cl07,cl07_18, Dayquan,Pardner,2021-05-27, Clifford
+cl07,cl07_19, Charles,Sakaki,2013-02-15, Clifford
+cl07,cl07_20, Hannah,Zheng,2017-01-14, Clifford
+cl07,cl07_21, Alexis,Pullen,2018-09-24, Clifford
+cl07,cl07_22, Victoria,Fitzjames,2016-09-11, Clifford
+cl07,cl07_23, Sarai,Chapman,2019-08-01, Clifford
+cl07,cl07_24, Pulak,Mahon,2013-12-28, Clifford
+cl07,cl07_25, Jaleesa,Conner,2016-10-12, Clifford
+cl07,cl07_26, Samantha,Richards,2017-06-02, Clifford
+cl07,cl07_27, Cheyenne,Iron Cloud,2016-04-23, Clifford
+cl07,cl07_28, Dayton,Luong,2023-03-26, Clifford
+cl07,cl07_29, Acineth,Wilson,2020-05-08, Clifford
+cl07,cl07_30, Elvis,Luna,2023-05-04, Clifford
+cl07,cl07_31, Hiwaaya,al-Salam,2015-03-08, Clifford
+cl07,cl07_32, Akram,al-Chahine,2020-02-17, Clifford
+cl07,cl07_33, Maichong,Malik,2019-04-12, Clifford
+cl07,cl07_34, Shelbie,Athenour,2021-05-08, Clifford
+cl07,cl07_35, Iffat,al-Pirani,2022-05-12, Clifford
+cl07,cl07_36, Matthew,Saine,2022-07-27, Clifford
+cl07,cl07_37, Christopher,Smith,2011-04-16, Clifford
+cl07,cl07_38, Hudhaifa,al-Obeid,2013-12-11, Clifford
+cl08,cl08_01, Djaye,Sterling,2012-08-15, Antonia
+cl08,cl08_02, Cameron,Boehlke,2013-10-20, Antonia
+cl08,cl08_03, Deion,Murray,2014-05-02, Antonia
+cl08,cl08_04, Austin,Barger,2014-04-25, Antonia
+cl08,cl08_05, T'Chia,Mckenzie,2015-08-04, Antonia
+cl08,cl08_06, Myron,Yazzie,2023-12-06, Antonia
+cl08,cl08_07, Christopher,De La Torre Siller,2024-04-06, Antonia
+cl08,cl08_08, Davina,Wong,2013-04-16, Antonia
+cl08,cl08_09, Richard,Rowland,2017-03-28, Antonia
+cl08,cl08_10, Maysea,Holeso,2015-02-14, Antonia
+cl08,cl08_11, Jaquon,Edwards,2014-01-03, Antonia
+cl08,cl08_12, Peter,Jackson,2020-08-17, Antonia
+cl08,cl08_13, Holden,Gomez,2023-12-11, Antonia
+cl08,cl08_14, Jerry,Pittman,2015-03-05, Antonia
+cl08,cl08_15, Abbaas,el-Farooq,2023-06-03, Antonia
+cl08,cl08_16, Aqeel,al-Awan,2013-10-10, Antonia
+cl08,cl08_17, Sandra,Rascon,2021-06-30, Antonia
+cl08,cl08_18, Seh Kai,Sharma,2011-03-24, Antonia
+cl08,cl08_19, Ariel,Bhagat,2018-07-05, Antonia
+cl08,cl08_20, Diana,Loya,2023-07-24, Antonia
+cl08,cl08_21, Joseph,Taylor,2015-09-17, Antonia
+cl08,cl08_22, Sage,Narantuya,2018-10-24, Antonia
+cl08,cl08_23, Amber,Moran,2012-02-16, Antonia
+cl08,cl08_24, Taamir,el-Koroma,2014-08-15, Antonia
+cl08,cl08_25, Franklin,Gallegos,2018-11-13, Antonia
+cl08,cl08_26, Trinang,Chaisitti,2022-12-10, Antonia
+cl08,cl08_27, Amanda Lynn,Tanicala,2021-04-15, Antonia
+cl08,cl08_28, Michael,Wells,2024-08-22, Antonia
+cl08,cl08_29, Jake,Chen,2016-09-21, Antonia
+cl08,cl08_30, Katryna,Gowda,2011-09-12, Antonia
+cl08,cl08_31, Savannah,Wilson,2021-04-30, Antonia
+cl08,cl08_32, Abdul Haleem,al-Hamdan,2015-10-23, Antonia
+cl08,cl08_33, John,Toledo,2011-05-03, Antonia
+cl08,cl08_34, Cheyenne,Pacheco,2018-03-05, Antonia
+cl08,cl08_35, Sabrina,Simental,2013-05-27, Antonia
+cl08,cl08_36, Madison,March,2023-09-28, Antonia
+cl08,cl08_37, Brooklyvon,Yellowhawk,2012-01-28, Antonia
+cl08,cl08_38, Laquan,Taylor,2023-06-06, Antonia
+cl09,cl09_01, Christian,Velasquez,2017-01-28, Felonice
+cl09,cl09_02, Amilkar,Richards,2020-05-23, Felonice
+cl09,cl09_03, Christopher,Villani,2016-07-04, Felonice
+cl09,cl09_04, Manna,Emerson,2015-11-10, Felonice
+cl09,cl09_05, Dallas,Dupree,2016-02-24, Felonice
+cl09,cl09_06, Gomzur,Maloy,2019-11-30, Felonice
+cl09,cl09_07, Christian,Yachai,2024-06-07, Felonice
+cl09,cl09_08, Zayyaan,al-Syed,2013-03-07, Felonice
+cl09,cl09_09, Humberto,Canul,2018-07-05, Felonice
+cl09,cl09_10, Jason,Luna,2011-07-05, Felonice
+cl09,cl09_11, Razeen,al-Pashia,2024-02-02, Felonice
+cl09,cl09_12, Victoria,Harris,2019-09-26, Felonice
+cl09,cl09_13, Dipika,Lawson,2017-10-28, Felonice
+cl09,cl09_14, Michael,Ungvarsky,2011-05-06, Felonice
+cl09,cl09_15, Marcus,Corbett,2015-02-22, Felonice
+cl09,cl09_16, Toby,Kelly,2012-01-15, Felonice
+cl09,cl09_17, Russell,Benally,2020-10-30, Felonice
+cl09,cl09_18, Zechariah,Flynn,2019-12-30, Felonice
+cl09,cl09_19, Calvin,Richards,2022-07-18, Felonice
+cl09,cl09_20, Fabian,Espinoza,2023-06-17, Felonice
+cl09,cl09_21, Sarah,Kargar,2023-09-09, Felonice
+cl09,cl09_22, Alexandra,Bivins,2016-07-17, Felonice
+cl09,cl09_23, Brenden,Oldham,2016-09-12, Felonice
+cl09,cl09_24, Rachael,Rodriguez,2013-10-18, Felonice
+cl09,cl09_25, William,Kinder,2024-08-05, Felonice
+cl09,cl09_26, Shaahir,al-Karim,2013-04-30, Felonice
+cl09,cl09_27, Donavan,Young,2016-10-23, Felonice
+cl09,cl09_28, Rhanisha,Dowdin,2018-11-26, Felonice
+cl09,cl09_29, Madeleine,Guo,2018-11-17, Felonice
+cl09,cl09_30, James,Mendez,2013-01-06, Felonice
+cl09,cl09_31, Richard,Castillo,2017-07-28, Felonice
+cl09,cl09_32, Saprea,Gray,2023-01-28, Felonice
+cl09,cl09_33, Ashley,Sahai,2016-06-25, Felonice
+cl09,cl09_34, Liam,Korionoff,2011-06-19, Felonice
+cl09,cl09_35, Ismael,Stirgus,2019-12-10, Felonice
+cl09,cl09_36, Tasina,Cruze,2012-05-17, Felonice
+cl09,cl09_37, Maeve,Chau,2021-11-03, Felonice
+cl09,cl09_38, Kayla,Vigil,2012-04-22, Felonice
+cl10,cl10_01, Lisa,Pereskokova,2016-02-26, Jordan
+cl10,cl10_02, Ryanna,Barker,2017-02-26, Jordan
+cl10,cl10_03, Kaitlyn,Shelton,2013-07-30, Jordan
+cl10,cl10_04, Kaprecca,Mcknight,2011-07-01, Jordan
+cl10,cl10_05, Kurt,Pryer,2017-09-14, Jordan
+cl10,cl10_06, Brian,Garcia,2021-09-19, Jordan
+cl10,cl10_07, Alexandra,Mcree,2014-05-26, Jordan
+cl10,cl10_08, Krystel Lee,Shipe,2017-03-15, Jordan
+cl10,cl10_09, Sara,Owens,2022-03-13, Jordan
+cl10,cl10_10, Angel,Arguello,2016-10-03, Jordan
+cl10,cl10_11, Geliscia,Pagliasotti,2013-05-16, Jordan
+cl10,cl10_12, Maazina,el-Mahmud,2012-12-22, Jordan
+cl10,cl10_13, Raihaan,al-Zakaria,2020-03-12, Jordan
+cl10,cl10_14, Malachai,Musselman,2014-05-21, Jordan
+cl10,cl10_15, Amya,Clark,2018-11-03, Jordan
+cl10,cl10_16, Ashley,Ordunez,2022-03-04, Jordan
+cl10,cl10_17, Jafar,el-Jalil,2020-09-06, Jordan
+cl10,cl10_18, Safiyya,el-Fayad,2013-11-02, Jordan
+cl10,cl10_19, Joshua,Morgan,2013-10-11, Jordan
+cl10,cl10_20, Elizabeth,Cox,2015-10-16, Jordan
+cl10,cl10_21, Staci,Smock,2023-07-01, Jordan
+cl10,cl10_22, Tia Shaye,Bean,2021-01-07, Jordan
+cl10,cl10_23, Cristian,August,2012-05-15, Jordan
+cl10,cl10_24, Farhat,el-Miah,2012-06-19, Jordan
+cl10,cl10_25, Leslie,Vo,2011-09-18, Jordan
+cl10,cl10_26, Cinthia,Trujillo,2023-05-01, Jordan
+cl10,cl10_27, Sebastian,Diaz,2022-07-03, Jordan
+cl10,cl10_28, Nabeeh,el-Zaher,2018-12-05, Jordan
+cl10,cl10_29, Chelsea,Lavigne,2021-04-28, Jordan
+cl10,cl10_30, David,Bastow,2023-05-13, Jordan
+cl10,cl10_31, Alexander,Coen,2011-11-07, Jordan
+cl10,cl10_32, Daniel,Rangel,2017-05-13, Jordan
+cl10,cl10_33, Sajaa,al-Ebrahim,2023-05-11, Jordan
+cl10,cl10_34, Anabel,Garcia,2017-01-12, Jordan
+cl10,cl10_35, Osman,Fraser,2017-09-28, Jordan
+cl10,cl10_36, Ruo,Lee,2024-02-12, Jordan
+cl10,cl10_37, Alec,Medina,2012-04-27, Jordan
+cl10,cl10_38, Hanyuan,Hochmuth,2014-05-31, Jordan
+cl11,cl11_01, Uthmaa N,al-Ben,2020-02-22, Hysoonie
+cl11,cl11_02, Madeline,Asmarzadeh,2024-05-26, Hysoonie
+cl11,cl11_03, Austin,Vosburgh,2018-05-19, Hysoonie
+cl11,cl11_04, David,Montes,2012-06-08, Hysoonie
+cl11,cl11_05, Andrew,Cataffo,2016-04-01, Hysoonie
+cl11,cl11_06, Matthew,Van Watermeulen,2023-05-17, Hysoonie
+cl11,cl11_07, Husniyya,el-Halaby,2023-11-19, Hysoonie
+cl11,cl11_08, Hanna,Tan,2023-04-13, Hysoonie
+cl11,cl11_09, Iniki,Lao,2012-04-03, Hysoonie
+cl11,cl11_10, Aamien,Vaughn,2021-11-29, Hysoonie
+cl11,cl11_11, Jasmin,Dural,2024-06-08, Hysoonie
+cl11,cl11_12, Scott,Watterson,2013-10-12, Hysoonie
+cl11,cl11_13, Aasima,al-Rasul,2012-07-17, Hysoonie
+cl11,cl11_14, Andr`E,Allotey,2019-04-05, Hysoonie
+cl11,cl11_15, Vanessa,Garner,2016-01-04, Hysoonie
+cl11,cl11_16, Bich Tram,Yang,2021-11-13, Hysoonie
+cl11,cl11_17, Megan,Shinnick,2014-09-14, Hysoonie
+cl11,cl11_18, Nataly,Ruiz,2019-11-18, Hysoonie
+cl11,cl11_19, Avenito,Vang,2012-11-14, Hysoonie
+cl11,cl11_20, Sandra,Gurung,2021-05-05, Hysoonie
+cl11,cl11_21, Christina,Estrada,2013-10-18, Hysoonie
+cl11,cl11_22, Amber,Cinco,2023-03-09, Hysoonie
+cl11,cl11_23, Tasia,Burch,2024-06-13, Hysoonie
+cl11,cl11_24, Devon,Lozano,2016-06-06, Hysoonie
+cl11,cl11_25, Alisha,Nwizu,2011-07-12, Hysoonie
+cl11,cl11_26, Elijah,Chittum,2015-12-05, Hysoonie
+cl11,cl11_27, Simon,Keeler,2022-03-21, Hysoonie
+cl11,cl11_28, Adela,Cordova,2020-02-05, Hysoonie
+cl11,cl11_29, Stephanie,Pae,2014-06-12, Hysoonie
+cl11,cl11_30, Kelsey,Mcphie,2017-09-15, Hysoonie
+cl11,cl11_31, Ivan,Barajas,2015-03-16, Hysoonie
+cl11,cl11_32, Lance,Konishi,2014-08-04, Hysoonie
+cl11,cl11_33, Taelor,Rossow,2017-02-12, Hysoonie
+cl11,cl11_34, Ashley,Gracely,2014-03-17, Hysoonie
+cl11,cl11_35, Aqeel,el-Farra,2018-01-17, Hysoonie
+cl11,cl11_36, Alba,Gallegos Padilla,2016-12-01, Hysoonie
+cl11,cl11_37, Mahogany,Roberts,2012-01-16, Hysoonie
+cl11,cl11_38, Nena,Robinson,2011-02-02, Hysoonie
+cl12,cl12_01, Jalisa,Bustos-Infante,2014-06-13, Saleet
+cl12,cl12_02, Cherokee,Harris,2011-03-01, Saleet
+cl12,cl12_03, Kayla,Harpham,2013-04-27, Saleet
+cl12,cl12_04, Ashley,Mcelhaney,2024-03-08, Saleet
+cl12,cl12_05, Jose,Granillo,2016-03-23, Saleet
+cl12,cl12_06, Spencer,Lytle,2011-12-19, Saleet
+cl12,cl12_07, Ashley,Pitchford,2013-08-03, Saleet
+cl12,cl12_08, An Hoa,Letteney,2014-12-28, Saleet
+cl12,cl12_09, Dominic,Campa,2018-01-03, Saleet
+cl12,cl12_10, Megan,Mejia,2023-09-10, Saleet
+cl12,cl12_11, Tyler,Banning,2019-08-16, Saleet
+cl12,cl12_12, Cortney,Sparks,2012-12-03, Saleet
+cl12,cl12_13, Aqeel,al-Dallal,2013-08-17, Saleet
+cl12,cl12_14, Brittany,Bass,2015-02-11, Saleet
+cl12,cl12_15, Lynsey,Dixon,2018-10-09, Saleet
+cl12,cl12_16, Leah,Bryant,2011-11-27, Saleet
+cl12,cl12_17, Juwairiya,al-Rayes,2018-04-29, Saleet
+cl12,cl12_18, Musheera,el-Faraj,2013-11-22, Saleet
+cl12,cl12_19, Kioni,Scaggs,2016-12-27, Saleet
+cl12,cl12_20, Esly,Rios,2024-03-29, Saleet
+cl12,cl12_21, Caitlin,Jackson,2014-09-16, Saleet
+cl12,cl12_22, Joseph,Cook,2022-07-06, Saleet
+cl12,cl12_23, Danielle,Matthias,2013-02-05, Saleet
+cl12,cl12_24, Aaron,Dixon,2012-11-13, Saleet
+cl12,cl12_25, Leioka,Burress-Willis,2017-01-06, Saleet
+cl12,cl12_26, Lance,Culver,2017-03-31, Saleet
+cl12,cl12_27, Landon,Pae,2022-12-16, Saleet
+cl12,cl12_28, Sky,Watts,2022-02-15, Saleet
+cl12,cl12_29, Dhareef,el-Khan,2011-02-15, Saleet
+cl12,cl12_30, Tony,Tani,2023-06-08, Saleet
+cl12,cl12_31, Sonia,Evans,2020-05-08, Saleet
+cl12,cl12_32, Phelan,Whitfield,2021-02-02, Saleet
+cl12,cl12_33, Ginika,Richardson Thompkins,2019-02-07, Saleet
+cl12,cl12_34, Benito,Hicks III,2019-06-20, Saleet
+cl12,cl12_35, Faaris,el-Hamdan,2021-02-06, Saleet
+cl12,cl12_36, Morgan,Mondhink,2012-07-24, Saleet
+cl12,cl12_37, Michael,Collins,2022-05-16, Saleet
+cl12,cl12_38, Juan,Martinez,2024-05-28, Saleet
+cl13,cl13_01, Larissa,Horst,2017-03-20, Michael
+cl13,cl13_02, Jason,Park,2015-03-23, Michael
+cl13,cl13_03, Hector,Aude,2022-05-16, Michael
+cl13,cl13_04, Jessica,Lawrence,2011-02-01, Michael
+cl13,cl13_05, Sireen,el-Saleem,2012-09-23, Michael
+cl13,cl13_06, De Aries,Williams,2015-10-17, Michael
+cl13,cl13_07, Iyaad,al-Mousa,2016-07-04, Michael
+cl13,cl13_08, Baaqir,el-Allam,2022-04-30, Michael
+cl13,cl13_09, Patrick,Inouye,2018-02-24, Michael
+cl13,cl13_10, Jared,Cox,2011-04-12, Michael
+cl13,cl13_11, Taqiyya,al-Kanan,2013-07-28, Michael
+cl13,cl13_12, Ryan,Ross,2017-02-07, Michael
+cl13,cl13_13, Laila,el-Srour,2018-08-28, Michael
+cl13,cl13_14, Russell,Traversie,2017-12-04, Michael
+cl13,cl13_15, Janelle,Morrison,2020-10-27, Michael
+cl13,cl13_16, Aldo,Duran,2021-09-24, Michael
+cl13,cl13_17, A'Lexus,Webb,2019-03-14, Michael
+cl13,cl13_18, Barry,Carter,2018-10-09, Michael
+cl13,cl13_19, Sumayya,al-Uddin,2024-03-18, Michael
+cl13,cl13_20, Lawrence,Mcmurray,2024-06-14, Michael
+cl13,cl13_21, Austin,Bruno,2015-11-08, Michael
+cl13,cl13_22, Amjad,al-Abad,2011-05-18, Michael
+cl13,cl13_23, Khandi,Gomez,2013-01-15, Michael
+cl13,cl13_24, Rico,Contreras,2014-04-15, Michael
+cl13,cl13_25, Daijah,Banks,2020-07-17, Michael
+cl13,cl13_26, Dong Sung,Fukui,2014-03-03, Michael
+cl13,cl13_27, Zeriah,Boschee,2022-01-14, Michael
+cl13,cl13_28, Devin,Blasingime,2012-05-09, Michael
+cl13,cl13_29, Mary,Sainbayar,2016-01-02, Michael
+cl13,cl13_30, Jessica,Cano,2016-02-16, Michael
+cl13,cl13_31, Anthony,Murray,2021-11-21, Michael
+cl13,cl13_32, Schiara,Perry,2021-02-08, Michael
+cl13,cl13_33, Iyaad,el-Ishmael,2011-06-26, Michael
+cl13,cl13_34, Izzat,al-Riaz,2020-07-21, Michael
+cl13,cl13_35, Karen,Dominguez,2021-12-14, Michael
+cl13,cl13_36, Brandi,Beckman,2018-09-10, Michael
+cl13,cl13_37, Daniel,Chandra,2020-03-29, Michael
+cl13,cl13_38, Lawrence,Johnson,2018-04-22, Michael
+cl14,cl14_01, Christina,Hall,2022-08-15, Patrick
+cl14,cl14_02, Mariah,Zavala,2020-10-26, Patrick
+cl14,cl14_03, Danielle,Rubner Lansing,2012-06-17, Patrick
+cl14,cl14_04, Parker,Sedillo,2022-07-03, Patrick
+cl14,cl14_05, Diana,Swazo,2014-07-21, Patrick
+cl14,cl14_06, Alexandra,Blue,2020-12-15, Patrick
+cl14,cl14_07, Marcell,Collins,2013-01-18, Patrick
+cl14,cl14_08, Christian,Pacheco,2014-02-24, Patrick
+cl14,cl14_09, Monica,Navajo,2014-06-29, Patrick
+cl14,cl14_10, Ashley,Jones,2015-08-21, Patrick
+cl14,cl14_11, Sahheeda,el-Sayed,2018-02-25, Patrick
+cl14,cl14_12, Ameen,al-Elbaz,2014-03-18, Patrick
+cl14,cl14_13, Sabiyya,el-Bina,2019-12-02, Patrick
+cl14,cl14_14, Samuel,Childs,2012-11-23, Patrick
+cl14,cl14_15, Michael,Villafana,2016-10-13, Patrick
+cl14,cl14_16, Alexander,Dauer,2014-08-04, Patrick
+cl14,cl14_17, Edson,Gonzalez,2014-03-04, Patrick
+cl14,cl14_18, Najee,Cook,2018-01-19, Patrick
+cl14,cl14_19, William,Pyo,2024-05-05, Patrick
+cl14,cl14_20, Bemnet,Ratcliff,2011-07-25, Patrick
+cl14,cl14_21, Faalih,el-Rayes,2019-08-05, Patrick
+cl14,cl14_22, Jasper,Washburn,2019-02-15, Patrick
+cl14,cl14_23, Najma,al-Mina,2012-05-07, Patrick
+cl14,cl14_24, Merissa,Newman,2021-05-31, Patrick
+cl14,cl14_25, Imaad,al-Shams,2024-01-04, Patrick
+cl14,cl14_26, Danielle,Carter,2019-05-05, Patrick
+cl14,cl14_27, Amelia,Grambusch,2024-08-04, Patrick
+cl14,cl14_28, Michael,Digby,2016-05-28, Patrick
+cl14,cl14_29, Brandi,Brink,2018-07-22, Patrick
+cl14,cl14_30, Ashley,Nguyen,2021-07-01, Patrick
+cl14,cl14_31, Farzam,Imphitak,2020-11-30, Patrick
+cl14,cl14_32, Matthew,Bonser,2022-12-20, Patrick
+cl14,cl14_33, Craig,Hahn,2018-03-01, Patrick
+cl14,cl14_34, Daifallah,al-Mohamad,2017-01-18, Patrick
+cl14,cl14_35, Waatiq,el-Ali,2021-05-17, Patrick
+cl14,cl14_36, Urwa,al-Rasul,2020-09-15, Patrick
+cl14,cl14_37, Jazzmin,Brown,2016-09-01, Patrick
+cl14,cl14_38, Mahdeeya,el-Sharaf,2021-08-12, Patrick
+cl15,cl15_01, Blanca,Hernandez,2014-04-11, Darian
+cl15,cl15_02, Xai,Chen,2015-08-21, Darian
+cl15,cl15_03, Micah,Ali,2017-01-25, Darian
+cl15,cl15_04, Tyler,Carter,2023-11-30, Darian
+cl15,cl15_05, Amatullah,el-Rais,2021-09-14, Darian
+cl15,cl15_06, Joey,Ranjitkar,2023-04-20, Darian
+cl15,cl15_07, Naseem,el-Ishmael,2012-06-27, Darian
+cl15,cl15_08, Michelle,Chun,2013-04-19, Darian
+cl15,cl15_09, Naja,Mcfalls,2013-01-02, Darian
+cl15,cl15_10, Selena,Campos,2013-07-18, Darian
+cl15,cl15_11, Makaylee,Godin,2022-07-01, Darian
+cl15,cl15_12, Trent,Rainey,2013-11-12, Darian
+cl15,cl15_13, Nathan,Guterl,2016-12-03, Darian
+cl15,cl15_14, Jaasim,el-Obeid,2018-08-17, Darian
+cl15,cl15_15, Matthew,Petersen,2021-08-22, Darian
+cl15,cl15_16, Pablo,Laner,2019-12-10, Darian
+cl15,cl15_17, Esther,Wada,2011-05-10, Darian
+cl15,cl15_18, Joseph,Vigil,2021-08-02, Darian
+cl15,cl15_19, Martha,Watts,2015-10-16, Darian
+cl15,cl15_20, Elijah,Wilson,2021-05-01, Darian
+cl15,cl15_21, Hector,Martinez,2023-05-16, Darian
+cl15,cl15_22, Ellen,Wu,2019-07-21, Darian
+cl15,cl15_23, Stephanie,Marsh,2018-05-31, Darian
+cl15,cl15_24, Angela,Ramos-Salas,2013-03-08, Darian
+cl15,cl15_25, Clayton,Nelson,2015-12-09, Darian
+cl15,cl15_26, Stephen,Patrick-Curley,2020-04-28, Darian
+cl15,cl15_27, Nazmiyya,al-Alam,2014-03-31, Darian
+cl15,cl15_28, Kaleem,al-Abdelrahman,2024-01-20, Darian
+cl15,cl15_29, Sham'a,el-Mohamed,2018-07-19, Darian
+cl15,cl15_30, Kevin,Mock,2022-10-02, Darian
+cl15,cl15_31, Jonathan,Huffaker,2022-06-22, Darian
+cl15,cl15_32, Alex,Maqbool,2016-10-06, Darian
+cl15,cl15_33, Aerie,Didario,2014-03-19, Darian
+cl15,cl15_34, Samuel,Blackbear,2014-12-18, Darian
+cl15,cl15_35, Emmanuel,Chapman,2023-08-29, Darian
+cl15,cl15_36, Katherine,Sanchez,2014-02-19, Darian
+cl15,cl15_37, Barinder,Feng,2014-06-06, Darian
+cl15,cl15_38, Dajina,Lowe,2018-10-02, Darian
+cl16,cl16_01, Dayne,Diesing,2017-05-22, Sean
+cl16,cl16_02, Alan,Williams,2017-03-02, Sean
+cl16,cl16_03, Richard,Pruett,2016-02-28, Sean
+cl16,cl16_04, Nick,Arellano,2016-11-28, Sean
+cl16,cl16_05, Madison,Godfrey,2013-12-30, Sean
+cl16,cl16_06, Nisha,Nguyen,2014-07-08, Sean
+cl16,cl16_07, Alenia,Reyes,2019-07-14, Sean
+cl16,cl16_08, Anthony,Kentris,2013-08-19, Sean
+cl16,cl16_09, Kevin,Williams,2024-07-13, Sean
+cl16,cl16_10, Karleina,Weber,2012-04-21, Sean
+cl16,cl16_11, Julio,Santos,2012-07-05, Sean
+cl16,cl16_12, Connor,Sabala,2020-08-28, Sean
+cl16,cl16_13, Aaron,Yahya,2017-04-24, Sean
+cl16,cl16_14, Elizabeth,Nagendra,2012-06-05, Sean
+cl16,cl16_15, Carlos,Chavarria,2023-05-21, Sean
+cl16,cl16_16, Sinai,Martinez Gonzalez,2013-04-03, Sean
+cl16,cl16_17, Alejandro,Villalobos,2016-04-29, Sean
+cl16,cl16_18, Rajab,el-Shaheed,2015-05-07, Sean
+cl16,cl16_19, Austin,Adkins,2013-12-18, Sean
+cl16,cl16_20, Joshua,Nichols,2016-06-21, Sean
+cl16,cl16_21, Stephon,Pina Limones,2015-07-14, Sean
+cl16,cl16_22, Stephen,Yokota-Stroman,2016-02-20, Sean
+cl16,cl16_23, Abdul Haadi,el-Aly,2024-06-06, Sean
+cl16,cl16_24, Mazeeda,al-Habeeb,2011-04-05, Sean
+cl16,cl16_25, Michelle,Williams,2013-06-16, Sean
+cl16,cl16_26, Luna,Tran,2013-08-07, Sean
+cl16,cl16_27, Luis,Gomez,2011-12-22, Sean
+cl16,cl16_28, Sara,Shay,2011-07-17, Sean
+cl16,cl16_29, Ashley,Garcia,2023-05-04, Sean
+cl16,cl16_30, Caitlyn,Eagle,2020-05-17, Sean
+cl16,cl16_31, Nickolas,Green,2020-11-09, Sean
+cl16,cl16_32, Letyraial,Parmiter,2018-11-18, Sean
+cl16,cl16_33, Ryan,Sproul,2016-04-18, Sean
+cl16,cl16_34, Mubeena,el-Burki,2012-12-02, Sean
+cl16,cl16_35, Elena,Kirbow,2021-04-23, Sean
+cl16,cl16_36, Humaidaan,al-Salim,2019-09-14, Sean
+cl16,cl16_37, Jasmine,Pacheco,2022-12-18, Sean
+cl16,cl16_38, Sapphire,Lestenkof,2016-06-23, Sean
+cl17,cl17_01, Jarnell,Kang,2014-07-04, Megan
+cl17,cl17_02, Kendra,West,2015-06-24, Megan
+cl17,cl17_03, Jaeden,Hatami,2011-03-30, Megan
+cl17,cl17_04, Christopher,Dimas Tuli,2011-01-07, Megan
+cl17,cl17_05, Brandon,Draper,2012-06-18, Megan
+cl17,cl17_06, Raul,Marroquin,2016-03-01, Megan
+cl17,cl17_07, Riley,Richards,2017-12-28, Megan
+cl17,cl17_08, Michelle,Ngo,2011-10-30, Megan
+cl17,cl17_09, Julian,Montoya,2022-09-15, Megan
+cl17,cl17_10, Anbara,el-Shafi,2022-09-25, Megan
+cl17,cl17_11, Brennon,Lattanzi,2014-01-29, Megan
+cl17,cl17_12, Scott,Raya,2019-04-13, Megan
+cl17,cl17_13, Raabia,al-Diab,2013-08-02, Megan
+cl17,cl17_14, William,Tongbua,2015-12-24, Megan
+cl17,cl17_15, Nooriyya,el-Amber,2023-02-02, Megan
+cl17,cl17_16, Naasif,el-Mahmood,2021-05-22, Megan
+cl17,cl17_17, Alana,Ahasteen,2024-01-05, Megan
+cl17,cl17_18, Anessa,Hedtke,2017-10-15, Megan
+cl17,cl17_19, Jean,Patel,2015-05-24, Megan
+cl17,cl17_20, Katryna,Funches,2021-11-25, Megan
+cl17,cl17_21, Deidre,Carmona,2020-09-19, Megan
+cl17,cl17_22, Joseph,West,2020-09-04, Megan
+cl17,cl17_23, Willis,Otero,2013-03-08, Megan
+cl17,cl17_24, Brian,Calden,2013-04-29, Megan
+cl17,cl17_25, Marcus,Ramirez-Delgado,2020-04-28, Megan
+cl17,cl17_26, Alan,Largusa,2019-05-17, Megan
+cl17,cl17_27, Joelle,Harding Jr,2014-10-11, Megan
+cl17,cl17_28, Monica,Rosales-Bass,2024-05-09, Megan
+cl17,cl17_29, Aabid,el-Shahan,2014-06-07, Megan
+cl17,cl17_30, Justine,Lacayo,2015-06-02, Megan
+cl17,cl17_31, Jumaima,el-Meskin,2016-06-11, Megan
+cl17,cl17_32, Harley,Smith,2022-01-25, Megan
+cl17,cl17_33, Jessica,Terahara,2023-10-25, Megan
+cl17,cl17_34, Daniel,Gallegos-Romero,2011-04-12, Megan
+cl17,cl17_35, Alize,Rich,2023-02-03, Megan
+cl17,cl17_36, Victor,Mandell,2016-06-16, Megan
+cl17,cl17_37, Ellen,Tang,2022-08-03, Megan
+cl17,cl17_38, Aadil,el-Abed,2022-12-03, Megan
+cl18,cl18_01, Danielle,Chavez,2017-11-13, Sharaf
+cl18,cl18_02, Madelyn,Nixon,2015-10-18, Sharaf
+cl18,cl18_03, Donovan,Dunnum,2020-02-15, Sharaf
+cl18,cl18_04, Briana,Hogan,2023-09-05, Sharaf
+cl18,cl18_05, Brady,Kanetsky,2019-05-31, Sharaf
+cl18,cl18_06, Ulyaa,el-Bahri,2018-04-22, Sharaf
+cl18,cl18_07, Trina,Brutout,2022-10-01, Sharaf
+cl18,cl18_08, Yasmine,Camacho,2021-04-25, Sharaf
+cl18,cl18_09, Jarell,Gilbert,2012-03-31, Sharaf
+cl18,cl18_10, Jermaine,Brown,2012-12-03, Sharaf
+cl18,cl18_11, Ushma,Stebbins,2023-07-04, Sharaf
+cl18,cl18_12, Marcellus,Rorex,2016-09-22, Sharaf
+cl18,cl18_13, Morgan,Rogers,2023-11-26, Sharaf
+cl18,cl18_14, Reit-T,Hans,2011-11-05, Sharaf
+cl18,cl18_15, Akhir Malik,Vaz,2023-02-11, Sharaf
+cl18,cl18_16, Mayyaada,el-Bangura,2021-01-16, Sharaf
+cl18,cl18_17, Jacory,Stuart,2022-04-22, Sharaf
+cl18,cl18_18, Kiara,Mcdonald,2024-07-24, Sharaf
+cl18,cl18_19, Deveney,Purdy,2016-01-28, Sharaf
+cl18,cl18_20, Makinzie,Nigro,2019-04-14, Sharaf
+cl18,cl18_21, Rajanique,Speights,2021-12-04, Sharaf
+cl18,cl18_22, Savanna,Kurtz,2024-02-11, Sharaf
+cl18,cl18_23, Susana,Caranza,2024-02-20, Sharaf
+cl18,cl18_24, Latoya,Smith,2024-01-01, Sharaf
+cl18,cl18_25, Dawson,Rhoads,2011-06-27, Sharaf
+cl18,cl18_26, Reit-T,Wickham,2023-07-21, Sharaf
+cl18,cl18_27, Tyler,Zalewski,2013-09-21, Sharaf
+cl18,cl18_28, Erika,Lawson,2016-04-19, Sharaf
+cl18,cl18_29, Ghaazi,el-Zahra,2018-10-19, Sharaf
+cl18,cl18_30, Kacey,Price,2021-01-12, Sharaf
+cl18,cl18_31, Wafaaa,al-Reza,2012-01-13, Sharaf
+cl18,cl18_32, Keith,Jackson,2021-05-17, Sharaf
+cl18,cl18_33, Eric,Lor,2021-05-10, Sharaf
+cl18,cl18_34, Yusri,al-Sabet,2022-03-10, Sharaf
+cl18,cl18_35, Ariana,Harris,2011-06-27, Sharaf
+cl18,cl18_36, Rashawna,Dennison,2015-05-04, Sharaf
+cl18,cl18_37, Haajid,al-Pirani,2013-01-06, Sharaf
+cl18,cl18_38, Joseph,Mullins,2016-06-28, Sharaf
+cl19,cl19_01, Camillo,Gutierrez,2019-11-22, Rashiah
+cl19,cl19_02, Kanoa,Xiong,2019-06-17, Rashiah
+cl19,cl19_03, Elizabeth,Vang,2024-05-17, Rashiah
+cl19,cl19_04, Dekota,Burch,2024-07-16, Rashiah
+cl19,cl19_05, Cheyenne,Chavez,2021-09-07, Rashiah
+cl19,cl19_06, Vilok,Seto,2021-04-13, Rashiah
+cl19,cl19_07, Jasen,Clardy,2018-10-23, Rashiah
+cl19,cl19_08, Marquise,Jones,2016-05-18, Rashiah
+cl19,cl19_09, Jennifer,Patchett,2020-10-03, Rashiah
+cl19,cl19_10, Tammaam,el-Salame,2013-08-21, Rashiah
+cl19,cl19_11, Sarah,Millard,2011-02-22, Rashiah
+cl19,cl19_12, Grant,Stevens,2019-02-24, Rashiah
+cl19,cl19_13, Jessandra,Sanchez,2017-11-16, Rashiah
+cl19,cl19_14, Elissa,Warren,2013-07-10, Rashiah
+cl19,cl19_15, Nikhilesh,Khat,2011-05-18, Rashiah
+cl19,cl19_16, Madeeha,al-Samad,2017-09-15, Rashiah
+cl19,cl19_17, Keenan,Wilson,2023-07-17, Rashiah
+cl19,cl19_18, Jesus,Bushyhead,2024-04-21, Rashiah
+cl19,cl19_19, Daniel,Gonzales,2020-02-13, Rashiah
+cl19,cl19_20, Sean,Lofton,2017-07-12, Rashiah
+cl19,cl19_21, Aylissa,Abeyta,2011-01-15, Rashiah
+cl19,cl19_22, Heden,Molina,2017-05-14, Rashiah
+cl19,cl19_23, Mark,Karg,2018-08-31, Rashiah
+cl19,cl19_24, Brandon,Larabee,2017-04-03, Rashiah
+cl19,cl19_25, Phayd,Tidwell,2022-07-21, Rashiah
+cl19,cl19_26, Gabriel,Cervantes Reyes,2020-12-30, Rashiah
+cl19,cl19_27, Ibrahim,el-Salehi,2014-09-28, Rashiah
+cl19,cl19_28, Oliver,Ludvigsen,2022-10-04, Rashiah
+cl19,cl19_29, Mareena,Davila Draper,2011-03-09, Rashiah
+cl19,cl19_30, Pa,Donner,2019-02-06, Rashiah
+cl19,cl19_31, Ilana,Simmons,2019-03-18, Rashiah
+cl19,cl19_32, Danielle,Scott,2018-08-23, Rashiah
+cl19,cl19_33, Aya,Her,2013-04-15, Rashiah
+cl19,cl19_34, Gerard,Weigel,2011-09-15, Rashiah
+cl19,cl19_35, Tiffany,Runingen,2021-04-15, Rashiah
+cl19,cl19_36, James,Cunningham,2019-10-23, Rashiah
+cl19,cl19_37, Abigail,Riggs,2016-01-12, Rashiah
+cl19,cl19_38, Jordan,Bryant,2016-07-05, Rashiah
+cl20,cl20_01, Tylon,Johnson,2019-04-12, Aaron
+cl20,cl20_02, Melissa,Nguyen,2013-04-13, Aaron
+cl20,cl20_03, Alexandra,Uren,2017-01-30, Aaron
+cl20,cl20_04, Brandon,Johnson,2022-01-26, Aaron
+cl20,cl20_05, Sandra,Smith,2023-12-17, Aaron
+cl20,cl20_06, Eric,Schoenrock,2023-12-30, Aaron
+cl20,cl20_07, Leonardo,Cuza Ocana,2017-10-05, Aaron
+cl20,cl20_08, Tyler,Garcia,2018-11-10, Aaron
+cl20,cl20_09, Nina,Nguyen,2017-01-05, Aaron
+cl20,cl20_10, Hannah,Myles,2013-09-15, Aaron
+cl20,cl20_11, Loreel,Watson,2013-02-24, Aaron
+cl20,cl20_12, Wyatt,Proctor,2018-02-28, Aaron
+cl20,cl20_13, Nafeesa,al-Bari,2020-05-23, Aaron
+cl20,cl20_14, Maria,Leger,2023-10-07, Aaron
+cl20,cl20_15, Sara,Robinson,2012-02-05, Aaron
+cl20,cl20_16, Jamaal,al-Kabir,2016-06-16, Aaron
+cl20,cl20_17, Trevon,Mackey,2017-05-17, Aaron
+cl20,cl20_18, Alicia,Debarris,2021-05-11, Aaron
+cl20,cl20_19, James,Mcclain,2021-08-27, Aaron
+cl20,cl20_20, Janelle,Lawson,2014-10-15, Aaron
+cl20,cl20_21, Ya'qoob,el-Ahmadi,2024-08-13, Aaron
+cl20,cl20_22, Eric,Tran,2016-02-09, Aaron
+cl20,cl20_23, Natalee,Houdek,2020-12-03, Aaron
+cl20,cl20_24, Marisa,Deleon,2023-03-22, Aaron
+cl20,cl20_25, Tristian,Nandih,2022-07-17, Aaron
+cl20,cl20_26, Haafil,el-Aydin,2013-04-20, Aaron
+cl20,cl20_27, Dante,Warren,2015-08-20, Aaron
+cl20,cl20_28, Joseph,Forrer,2021-09-03, Aaron
+cl20,cl20_29, Frances,Cox,2014-04-19, Aaron
+cl20,cl20_30, Christian,Etsitty,2014-06-17, Aaron
+cl20,cl20_31, Katherine,Hakes,2016-02-17, Aaron
+cl20,cl20_32, Amber,Damian,2020-12-24, Aaron
+cl20,cl20_33, Martin,Guderjahn,2017-03-27, Aaron
+cl20,cl20_34, Tasneem,al-Mahfouz,2013-03-26, Aaron
+cl20,cl20_35, Ladan,Scott,2022-04-25, Aaron
+cl20,cl20_36, Michael,Sisneros,2011-01-30, Aaron
+cl20,cl20_37, Talayshi,Cooper-Moore,2014-11-27, Aaron
+cl20,cl20_38, Madison,Hatton,2013-03-16, Aaron
